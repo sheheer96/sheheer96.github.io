@@ -1,0 +1,13 @@
+body{
+    background-image: url(food.jpg);
+    text-align: center;
+}
+div{
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 90px;
+    text-align: center;
+    border: 2px solid green;
+    border-radius: 25px;
+}
